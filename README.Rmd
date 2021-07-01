@@ -1,5 +1,5 @@
 ---
-title: "DATA 606 Spring 2021"
+title: "DATA 607 Test"
 output: github_document
 editor_options: 
   chunk_output_type: console
